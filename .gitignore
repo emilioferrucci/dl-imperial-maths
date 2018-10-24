@@ -16,3 +16,7 @@ __pycache__/
 
 /tensorflow-tutorial/week_2/test/
 /tensorflow-tutorial/week_2/train/
+/assignments/week_2/t10k-images-idx3-ubyte
+/assignments/week_2/t10k-labels-idx1-ubyte
+/assignments/week_2/train-images-idx3-ubyte
+/assignments/week_2/train-labels-idx1-ubyte
