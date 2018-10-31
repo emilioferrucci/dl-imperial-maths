@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.npy
 *.xml
 *.pyc
@@ -20,3 +21,20 @@ __pycache__/
 /assignments/week_2/t10k-labels-idx1-ubyte
 /assignments/week_2/train-images-idx3-ubyte
 /assignments/week_2/train-labels-idx1-ubyte
+=======
+*.npy
+*.xml
+*.pyc
+*.DS_Store
+*.mat
+
+**/solution.py
+**/.ipynb_checkpoints/
+**/checkpoint
+**/model.data-*
+*.index
+*.meta
+
+__pycache__/
+.idea/
+>>>>>>> e01762963b01d9387706731763845a80c6714ac7
